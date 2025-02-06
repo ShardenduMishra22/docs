@@ -61,8 +61,7 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/MishraShardendu22',
   },
   chat: {
-    link: '#',
-    icon: <TeamDropdown />
+    <TeamDropdown />
   },
   footer: {
     text: 'IIIT Dharwad - Team ParshuVelocity',
