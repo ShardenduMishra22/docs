@@ -11,10 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/shuding/nextra-docs-template.git"
   },
-  "author": "Shardendu Mishra",
+  "author": "Team ParshuVelocity",
   "license": "IIIT Dharwad",
   "bugs": {
-    "url": "https://github.com/MishraShardendu22"
+    "url": "https://github.com/ParshuVelocity"
   },
   "dependencies": {
     "lucide-react": "^0.474.0",
